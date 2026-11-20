@@ -4,7 +4,8 @@ A Java-based console application designed to simplify college library management
 
 ## About the Project
 
-BookNest is a menu-driven Library Management System that helps librarians manage books, register members, issue books, process returns, calculate late fines and search the book catalogue.
+BookNest provides a straightforward, command-line interface for librarians to handle routine administrative tasks without manual record-keeping. Built around core Object-Oriented Programming (OOP) principles, the system tracks books, validates member eligibility, enforces borrowing limits, and computes overdue penalties automatically.
+
 
 ## Features
 
@@ -75,7 +76,7 @@ java -cp out LibraryApp
 
 ## Author
 
-Sufriya Hussain R
+Sahana Budhi
 
 ## Project Type
 
